@@ -7,5 +7,6 @@ if randon_number = user_num
   puts "/You guessed the correct number!/"
 end 
 if randon_number!= user_num 
-  puts ""
-end"
+  puts "Sorry! The computer guessed #{randon_number}."
+end
+end 
