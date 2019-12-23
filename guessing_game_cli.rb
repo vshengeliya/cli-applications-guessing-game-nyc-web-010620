@@ -26,3 +26,4 @@ elsif user_num = "exit"
 end
 else "Sorry! The computer guessed #{randon_number}."
 end
+end
