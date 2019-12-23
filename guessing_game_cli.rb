@@ -26,5 +26,3 @@ elsif exit
 end
 else "Sorry! The computer guessed #{randon_number}."
 end
-end
-end
