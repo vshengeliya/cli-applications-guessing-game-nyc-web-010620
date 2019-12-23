@@ -8,7 +8,7 @@ end
 if randon_number!= user_num 
   puts "Sorry! The computer guessed #{randon_number}."
 end
-# if exit
-#   puts "Goodbye!"
-# end
+if exit
+  puts "Goodbye!"
+end
 end
