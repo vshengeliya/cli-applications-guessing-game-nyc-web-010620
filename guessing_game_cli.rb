@@ -1,4 +1,5 @@
 def run_guessing_game
-rand (1..6)
+randon_number = rand(1..6)
+user_number = 
 
 end
