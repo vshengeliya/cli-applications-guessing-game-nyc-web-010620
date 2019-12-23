@@ -5,6 +5,7 @@ user_num = gets.to_i
 # puts 'Your favourite number is ' + num.to_s + '?'
 if randon_number = user_num
   puts "/You guessed the correct number!/"
-end randon_number
-if 
+end 
+if randon_number!= user_num 
+  puts ""
 end"
