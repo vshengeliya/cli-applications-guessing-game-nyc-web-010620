@@ -21,7 +21,7 @@ user_num = gets.to_i
 if randon_number = user_num
   puts "/You guessed the correct number!/"
 end 
-elsif exit
+elsif user_num = "exit"
   puts "Goodbye!"
 end
 else "Sorry! The computer guessed #{randon_number}."
